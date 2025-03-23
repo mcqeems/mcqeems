@@ -1,18 +1,8 @@
-# 👋 Hi there, I'm Mustaqim!
-
-[![GitHub followers](https://img.shields.io/github/followers/mcqeems?label=Follow&style=social)](https://github.com/mcqeems)
-[![Linkedin: mustaqim](https://img.shields.io/badge/-Mustaqim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcqeems/)](https://www.linkedin.com/in/mcqeems/)
-
-## 🚀 About Me
+# 👋 Hi there, I'm Mustaqim! 
 
 I'm a passionate Computer Science student with a love for building innovative solutions and exploring the intersection of software development, networking, and cloud technologies. My journey in tech has been driven by curiosity, problem-solving, and a deep fascination with JavaScript and its frameworks—especially **React.js**.
 
 As an aspiring **Full-Stack Developer**, I enjoy transforming ideas into functional, user-friendly applications. From designing sleek front-end interfaces to architecting efficient back-end systems, I thrive on creating seamless digital experiences. My hands-on experience with React.js has allowed me to develop responsive and interactive web apps, and I'm always eager to dive deeper into the ever-evolving world of JavaScript.
-
-## 🔧 Experience
-
-- **Network Engineering** at **PPTIK** - Managed campus networks and servers, gaining invaluable insights into server management, troubleshooting, and ensuring smooth connectivity across the university
-- **Cloud Engineering** with **Microsoft Azure** - Designed and managed cloud infrastructures, deployed applications, and explored AI services within Azure
 
 ## 🏆 GitHub Trophies
 
