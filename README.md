@@ -3,8 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/mcqeems?label=Follow&style=social)](https://github.com/mcqeems)
 [![Linkedin: mustaqim](https://img.shields.io/badge/-Mustaqim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcqeems/)](https://www.linkedin.com/in/mcqeems/)
 
-## 💻 Passionate Computer Science Student | Full-Stack Developer | Network & Cloud Enthusiast
-
 ## 🚀 About Me
 
 I'm a passionate Computer Science student with a love for building innovative solutions and exploring the intersection of software development, networking, and cloud technologies. My journey in tech has been driven by curiosity, problem-solving, and a deep fascination with JavaScript and its frameworks—especially **React.js**.
