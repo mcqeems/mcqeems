@@ -5,14 +5,6 @@
 
 ## 💻 Passionate Computer Science Student | Full-Stack Developer | Network & Cloud Enthusiast
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🚀 About Me
 
 I'm a passionate Computer Science student with a love for building innovative solutions and exploring the intersection of software development, networking, and cloud technologies. My journey in tech has been driven by curiosity, problem-solving, and a deep fascination with JavaScript and its frameworks—especially **React.js**.
@@ -47,8 +39,13 @@ As an aspiring **Full-Stack Developer**, I enjoy transforming ideas into functio
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mcqeems&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ## 🌱 What I'm Currently Exploring
 
