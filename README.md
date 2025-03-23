@@ -24,6 +24,8 @@ As an aspiring **Full-Stack Developer**, I enjoy transforming ideas into functio
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Languages" />
