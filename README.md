@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Mustaqim! 
 
-I'm a passionate Computer Science student with a love for building innovative solutions and exploring the intersection of software development, networking, and cloud technologies. My journey in tech has been driven by curiosity, problem-solving, and a deep fascination with JavaScript and its frameworks—especially **React.js**.
+[![Mustaqim Nawahhudi Ma'arif profile views](https://u8views.com/api/v1/github/profiles/169806448/views/day-week-month-total-count.svg)](https://u8views.com/github/mcqeems)
 
-As an aspiring **Full-Stack Developer**, I enjoy transforming ideas into functional, user-friendly applications. From designing sleek front-end interfaces to architecting efficient back-end systems, I thrive on creating seamless digital experiences. My hands-on experience with React.js has allowed me to develop responsive and interactive web apps, and I'm always eager to dive deeper into the ever-evolving world of JavaScript.
+I'm a passionate Computer Science student with a love for building innovative solutions and exploring the intersection of software development, networking, and cloud technologies. My journey in tech has been driven by curiosity, problem-solving, and a deep fascination with Web Development and Cloud Computing.
+
+As an aspiring **Software Engineer**, I enjoy transforming ideas into functional, user-friendly applications. From designing sleek front-end interfaces to architecting efficient back-end systems, I thrive on creating seamless digital experiences. My hands-on experience with Web Development has allowed me to develop responsive and interactive web apps, and I'm always eager to dive deeper into the ever-evolving world of Software Engineering.
 
 ## 🏆 GitHub Trophies
 
