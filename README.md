@@ -17,6 +17,9 @@ As an aspiring **Software Engineer**, I enjoy transforming ideas into functional
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=java&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express. Js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -29,6 +32,8 @@ As an aspiring **Software Engineer**, I enjoy transforming ideas into functional
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazon&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-34A85?style=flat-square&logo=google&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Languages" />
