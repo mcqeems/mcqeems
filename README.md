@@ -36,7 +36,7 @@ As an aspiring **Software Engineer**, I enjoy transforming ideas into functional
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-34A85?style=flat-square&logo=google&logoColor=white)
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Language"/>
 </p>
 
 ## 📈 GitHub Activity
