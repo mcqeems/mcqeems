@@ -35,15 +35,15 @@ As an aspiring **Software Engineer**, I enjoy transforming ideas into functional
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazon&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-34A85?style=flat-square&logo=google&logoColor=white)
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcqeems&layout=compact&theme=radical" alt="Top Language"/>
-</p>
+</p> -->
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mcqeems&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcqeems&theme=radical" alt="GitHub Streak" />
