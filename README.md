@@ -3,16 +3,14 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh6dHZsYjZ3eWV3MXpzeGN6cW11b3d5eTB1ZHpwNmgzanpia2hvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/139kIwu2oixNrq/giphy.gif"/>
 </div>
 
-What? you didn't think that's funny? alright you win 🙌.  
-Nice to meet you my name is **Mustaqim** but you can call me **Qeem** cause my nickname is **McQeems** which you can find in any social media or online games.
+What? you didn't think that's funny? alright you win 🙌. Nice to meet you my name is **Mustaqim** but you can call me **Qeem** cause my nickname is **McQeems** which you can find in any social media or online games.
 
 # Wait... you still here?
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg1dXNuZDJ0OGM0cnk3a3FvNzdsMHV5dHRsNjB0cTBhNnppYjhtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif"/>
 </div>
 
-Why are you still here? get back to code you creep!  
-Okay fine... since you insist, let me show you my toys.
+Why are you still here? get back to code you creep! Okay fine... since you insist, let me show you my toys.
 
 # 🧸 My Toys  
 <p align="center">
